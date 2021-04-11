@@ -1,0 +1,15 @@
+.paswordDisplay{
+   background-color: white;
+   color: black;
+   padding: 1rem;
+   border: 1px solid #333;
+    height: 2rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-break: break-all;
+    border-radius: .5rem;
+
+}
+
